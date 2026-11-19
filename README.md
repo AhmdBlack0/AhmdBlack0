@@ -23,8 +23,14 @@ Open to freelance work and Frontend Developer roles.
 ### 🎯 My Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,tailwind,bootstrap,materialui" alt="My Skills" />
 </a>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Formik-0052CC?style=for-the-badge&logo=formik&logoColor=white" alt="Formik" />
+</p>
 
 <br />
 
